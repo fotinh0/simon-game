@@ -30,7 +30,6 @@ Simon Game boss challenge solution from The Complete 2021 Web Development Bootca
 
 - HTML5
 - CSS 
-- JavaScript
 - jQuery
 
 ### Useful resources
